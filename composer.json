@@ -1,0 +1,19 @@
+{
+  "name": "zdna/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/z17dev",
+  "keywords": ["zdna", "z17dev", "init-composer"],
+  "support": {
+    "source": "https://github.com/z17dev/init-composer-03",
+    "issues": "https://github.com/z17dev/init-composer-03/issues",
+    "docs": "https://github.com/z17dev/init-composer-03/wiki",
+    "forum": "https://github.com/z17dev/init-composer-03/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
